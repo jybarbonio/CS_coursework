@@ -1,0 +1,4 @@
+- This coursework portfolio is not entirely comprehensive nor representative of my entire CS coursework from 2018 to 2023.
+- Some files have been lost, cannot be recovered as they were based on now-inaccessible campus databases, or are purposely modified or cleared of certain contents due to the risk of copying, particularly more recent courses.
+- Only code files are included. Any text or image documents or submissions pertaining to the code assignments have been removed.
+- Certain CS courses are removed due to being primarily written write-ups, picture and theory notes not representative of written code.
